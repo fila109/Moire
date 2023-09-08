@@ -1,3 +1,6 @@
+# Moire
+Интернет-магазин премиального белья Moire на Vue.js с использованием REST API
+
 # online_shop
 
 ## Project setup
